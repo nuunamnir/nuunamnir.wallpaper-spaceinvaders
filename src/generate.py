@@ -60,6 +60,10 @@ if __name__ == '__main__':
             'background_color': (1, 22, 39),
             'foreground_colors': [(128, 11, 37), (255, 0, 34), (160, 117, 123), (65, 234, 212), (159, 245, 232), (253, 255, 252), (219, 137, 183), (185, 19, 114)],
         },
+        'pastel': {
+            'background_color': '#b0d7ff',
+            'foreground_colors': ['#eae8ff', '#e1dfed', '#d8d5db', '#c3c1c8', '#adacb5', '#6d6f7c', '#2d3142', '#6f84a1', '#90aed0'],
+        }
     }
 
     parser.add_argument('-x', '--width', dest='width', type=int, help='wallpaper width in pixel', required=False, default=3840)
