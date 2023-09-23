@@ -63,6 +63,14 @@ if __name__ == '__main__':
         'pastel': {
             'background_color': '#b0d7ff',
             'foreground_colors': ['#eae8ff', '#e1dfed', '#d8d5db', '#c3c1c8', '#adacb5', '#6d6f7c', '#2d3142', '#6f84a1', '#90aed0'],
+        },
+        'sea': {
+            'background_color': '#C7F9CC',
+            'foreground_colors': ['#A4F3B3', '#80ED99', '#6CDD99' ,'#57CC99', '#48B89F', '#38A3A5', '#2D7D90', '#22577A'],
+        },
+        'pastel_candy': {
+            'background_color': '#E1EFF6',
+            'foreground_colors': ['#ECCBD9', '#E7DDE8', '#BCE1F9', '#97D2FB', '#8DC7FD', '#83BCFF', '#82DEF4', '#80FFE8'],
         }
     }
 
